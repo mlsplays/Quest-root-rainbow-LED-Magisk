@@ -8,3 +8,6 @@ Make your LED always rainbow when your device is awake
  1. Download the module
  2. Put it on the headset
  3. Install the module in Magisk and reboot
+
+# Credits
+-FreeXR
